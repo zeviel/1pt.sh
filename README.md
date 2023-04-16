@@ -3,7 +3,6 @@ Web-API for [1pt.co](https://1pt.co) which is an URL shortening service that hos
 
 ## Example
 ```bash
-source 1pt.sh
-
+source ./1pt.sh
 add_url "url"
 ```
